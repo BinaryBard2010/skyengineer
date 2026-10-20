@@ -5,6 +5,874 @@ file = "README.md"
 hash = "c565365475a6d6c3594085ff048ca17e63454bdfa1100f94d295c06a9a3cef57"
 
 [[files]]
+file = "config/inventory-interactions/cache/aa4-atlas/base_textures.cached"
+hash = "8c27e1b70ce858bac21bf06edc43cf2b5770f5e9321f97c03143cc63806187bc"
+
+[[files]]
+file = "config/inventory-interactions/cache/aeronautics/base_textures.cached"
+hash = "50faf89b2d364b38352eb55978609ae7b24474d10cbaa58dc03697120c2fc23c"
+
+[[files]]
+file = "config/inventory-interactions/cache/aeronautics_utility_objects/base_textures.cached"
+hash = "b694f0b60be74631084a1477e286803309d2d841171b8a6c17c1095fe285ebdd"
+
+[[files]]
+file = "config/inventory-interactions/cache/aerowarptics/base_textures.cached"
+hash = "67491e2d495ed974730fc2d01d6e3095c223daa98af6d1fed589c6fdb5b82780"
+
+[[files]]
+file = "config/inventory-interactions/cache/aeroworks/base_textures.cached"
+hash = "51e0231147216ab46f7a35de07cbc7eceed38d81588c9b51456421d67b4f0121"
+
+[[files]]
+file = "config/inventory-interactions/cache/cbc_at/base_textures.cached"
+hash = "a2a7d6cf0c17d0a8ed26fa5bd76e24405ef343cac717ab1d46f825adfa5d4052"
+
+[[files]]
+file = "config/inventory-interactions/cache/cbc_compact_mount/base_textures.cached"
+hash = "2a0c764603d63a02e03c23eb4487e1abc74ded068912177157a54724dd3283ce"
+
+[[files]]
+file = "config/inventory-interactions/cache/cgs/base_textures.cached"
+hash = "4b9a7d4e9f3d84f85918874554cf76357257f54cca670dd4cc52a120b50dfa26"
+
+[[files]]
+file = "config/inventory-interactions/cache/comforts/base_textures.cached"
+hash = "ee426106c104b57c2605ceaf8bc546b07c4f939eb21e11110b4f030e1843dbaf"
+
+[[files]]
+file = "config/inventory-interactions/cache/copycats/base_textures.cached"
+hash = "bf17654a8e36da8a976a9678d99313cd0b23b791d2f61ce47ed42754f5cc68f3"
+
+[[files]]
+file = "config/inventory-interactions/cache/create/base_textures.cached"
+hash = "b9e43c8e6f13b66472376e5fcd2cf8743ae38b933c2f4d73c8c3a39300774e76"
+
+[[files]]
+file = "config/inventory-interactions/cache/create_aeronautics_throwable_rope_connector/base_textures.cached"
+hash = "0113c3ccfd0d65dd2c151800b6fdf3a8948d70bea4aba33db0a42dae8f215288"
+
+[[files]]
+file = "config/inventory-interactions/cache/create_connected/base_textures.cached"
+hash = "b514d49ce56c51e978149d0db39f7a7c98a36a6ac1480fce76c922f2a877822d"
+
+[[files]]
+file = "config/inventory-interactions/cache/create_dragons_plus/base_textures.cached"
+hash = "1177e0383cc4ac6a5836732dc9e2d58614bd92d51b534a621f1828bb2dc1fb8c"
+
+[[files]]
+file = "config/inventory-interactions/cache/create_enchantment_industry/base_textures.cached"
+hash = "c4dfada521b8eaae5054ebd37006786b629cc8a92f626bc4816c134072b2b59c"
+
+[[files]]
+file = "config/inventory-interactions/cache/create_hypertube/base_textures.cached"
+hash = "1546b479d62c6c59a42e3d9d448819745276b29d6dbab36dfc7b36a63d2056fc"
+
+[[files]]
+file = "config/inventory-interactions/cache/create_item_drawers/base_textures.cached"
+hash = "53e0fddfed64dbf8f440e2ca3b37800af14fbc68bcb0b9d9e46ee8eab7e26b37"
+
+[[files]]
+file = "config/inventory-interactions/cache/create_mechanical_extruder/base_textures.cached"
+hash = "b9d1bfefce752e5457a61b940695f1a791a4cc05e4353b3e7518466e81126273"
+
+[[files]]
+file = "config/inventory-interactions/cache/create_mob_spawners/base_textures.cached"
+hash = "63ba4dc5990c3af2f26a33c93cb976deb57f6d1b2ec5fbd98800520d9fdad17e"
+
+[[files]]
+file = "config/inventory-interactions/cache/create_mobile_packages/base_textures.cached"
+hash = "c9fb2b56a56203f6d9bf97b0c876fc66d7efe58dc05db7e7b079ed91fdb08341"
+
+[[files]]
+file = "config/inventory-interactions/cache/create_power_loader/base_textures.cached"
+hash = "4639398d4a2001e7fadd0654bb4be0bf8db8fc56e3fb3c242eacec2d78d992f2"
+
+[[files]]
+file = "config/inventory-interactions/cache/create_radar/base_textures.cached"
+hash = "347681e4fcee64543611d57323cfd45c38c1a961182d7b670c992df5b91da25e"
+
+[[files]]
+file = "config/inventory-interactions/cache/create_the_air_wars/base_textures.cached"
+hash = "ed609b0fcc34a6fbb3209d5939711bed473dcea15b31a1a1df3908a3143a95da"
+
+[[files]]
+file = "config/inventory-interactions/cache/create_things_and_misc/base_textures.cached"
+hash = "0ed5e2e30fd7f57ff03e36a9870734fa2b183259b4c599293d7bd7e92a4f054b"
+
+[[files]]
+file = "config/inventory-interactions/cache/create_tweaked_controllers/base_textures.cached"
+hash = "0af70d480e977635cb9d00f27b1f77c640dd2552f625a84f4a06779bb569c108"
+
+[[files]]
+file = "config/inventory-interactions/cache/createbigcannons/base_textures.cached"
+hash = "dee5a576e88c40ce8565b6b25674eaed589f6c9ae99caa68927676c56c2e49d5"
+
+[[files]]
+file = "config/inventory-interactions/cache/createdieselgenerators/base_textures.cached"
+hash = "2fa2ccafff6127821b3060c17f09f89ea7c2bee0d68d3c2d26ecccb701b721c6"
+
+[[files]]
+file = "config/inventory-interactions/cache/createlazytick/base_textures.cached"
+hash = "9a60fca050ca5dd6eee62b82cd048d87c5845414c1cf4c3b7103fb28889529b5"
+
+[[files]]
+file = "config/inventory-interactions/cache/createmissiles/base_textures.cached"
+hash = "c3c97ad2bb9d8b90331bbd3aa59ecd46cf82300c474dcd012d1146d0710494d8"
+
+[[files]]
+file = "config/inventory-interactions/cache/createnuclear/base_textures.cached"
+hash = "fb86b7888228bfc049bd18349744b16cc84474fd9691ff2ad7b29a6305dae845"
+
+[[files]]
+file = "config/inventory-interactions/cache/createpropulsion/base_textures.cached"
+hash = "3098773c797b6cb39290957b64281f5f8aedced5baed5fbf7b0c04805d38032d"
+
+[[files]]
+file = "config/inventory-interactions/cache/createthrusters/base_textures.cached"
+hash = "bc3b28dba20623b43a0c2f3a2b64c502dd115c077a797ced25bf80baf1878301"
+
+[[files]]
+file = "config/inventory-interactions/cache/createtransmission/base_textures.cached"
+hash = "24fe685eb95002457632779eb182d708e537e09e84b9f6a799fd855bc3f52415"
+
+[[files]]
+file = "config/inventory-interactions/cache/deployer/base_textures.cached"
+hash = "62fc4e538c68baba53dcca9c1124969fc86951e71f17354c216cdbd715f1b637"
+
+[[files]]
+file = "config/inventory-interactions/cache/dndesires/base_textures.cached"
+hash = "9cf5390fedd52e302ed167b1d24a6c44d6da2ef08a8cfab30616a29e2669aa4d"
+
+[[files]]
+file = "config/inventory-interactions/cache/escalated/base_textures.cached"
+hash = "86a38b2a75e4e07a2619dff4b98b5b2378b3f4d38fdd8dd38f4424bd8601dca2"
+
+[[files]]
+file = "config/inventory-interactions/cache/extra_gauges/base_textures.cached"
+hash = "01da65dfcf80e08ed83a2b40f19e1e86b10c0c8d66a233dfd8a62225286a4372"
+
+[[files]]
+file = "config/inventory-interactions/cache/interiors/base_textures.cached"
+hash = "9e9c1c0c81d6d69b0101132f45eed81641741b6d82ffc83b131b0cad2806a486"
+
+[[files]]
+file = "config/inventory-interactions/cache/linearbearing/base_textures.cached"
+hash = "5c5b822d360fd90e707e685df2c0a8f3b3102ee8efa17e7204d4fbb703868a43"
+
+[[files]]
+file = "config/inventory-interactions/cache/mechanicals/base_textures.cached"
+hash = "3ddddee9b53c9b00f5c9082acc44b12cbb9318bd220a500e825da32f70f38cad"
+
+[[files]]
+file = "config/inventory-interactions/cache/naturescompass/base_textures.cached"
+hash = "6f7d4059af6b39b8fde215a805feba123b892c20fcfcc34c2652baee328450ee"
+
+[[files]]
+file = "config/inventory-interactions/cache/northstar/base_textures.cached"
+hash = "b8c885964768976c5c38eaa8f1b8c05ea143ece2f7c5dd6f55593a55694b14d5"
+
+[[files]]
+file = "config/inventory-interactions/cache/ntgl/base_textures.cached"
+hash = "5679ab9dac3eeab4c046a1f23fbb2dd819aa181be6e56f2319df5fb0251ca56a"
+
+[[files]]
+file = "config/inventory-interactions/cache/offroad/base_textures.cached"
+hash = "88617ced6c8ee84dc8f59be51fa8c4fe4cde131dc68ad8a2668ca2959feb9d8a"
+
+[[files]]
+file = "config/inventory-interactions/cache/powergrid/base_textures.cached"
+hash = "0b9e1d0450c49af91f9bd8059cbfdd923694b6872d61453e186b615dc2add243"
+
+[[files]]
+file = "config/inventory-interactions/cache/relics/base_textures.cached"
+hash = "cba9ba043d307218dd8988462ab50fd04ad43f5bbc248888e14cecda750ba926"
+
+[[files]]
+file = "config/inventory-interactions/cache/rocketnautics/base_textures.cached"
+hash = "e955aa406734a8928c15017ca45e2b18822d49ad19e25107ecb0758874b7c413"
+
+[[files]]
+file = "config/inventory-interactions/cache/sim_copycats/base_textures.cached"
+hash = "786071d4b7ed8f7297017c24c594b477325464b63901949ed3ca8dd2093453a0"
+
+[[files]]
+file = "config/inventory-interactions/cache/simulated/base_textures.cached"
+hash = "36e3ff90dee089d6e89c0e14d0347cdbb5cd947737db78bf987447124fde0cb0"
+
+[[files]]
+file = "config/inventory-interactions/cache/sophisticatedbackpacks/base_textures.cached"
+hash = "8940abc5710bb4678177cecea82a19356ae433d9282b64f11c6341d9ff845638"
+
+[[files]]
+file = "config/inventory-interactions/cache/sophisticatedcore/base_textures.cached"
+hash = "61b735b4502134d30d3fdf0e143a6e105159b3d100b13930ad7ead1de5b28fda"
+
+[[files]]
+file = "config/inventory-interactions/cache/touys/base_textures.cached"
+hash = "80e60d1f6b0a06a376ae9276055361365e71e6b4e4e872ed2bf5d9b3a0f42967"
+
+[[files]]
+file = "config/inventory-interactions/cache/trashcans/base_textures.cached"
+hash = "8e01d82785afc7c8e9a75088c2745139624c2629eb2722c43843d78e2e03bef8"
+
+[[files]]
+file = "config/inventory-interactions/cache/wands/base_textures.cached"
+hash = "f55e5d1fdc106aad707a10bfc23be1d1a2189678c9c201843796c817a45a71ef"
+
+[[files]]
+file = "config/inventory-particles/cache/aa4-atlas/atlas.png"
+hash = "7b14f967807a4d2375687e946f32254172e8c9ce78d79b82ccf0e8e6adf47439"
+
+[[files]]
+file = "config/inventory-particles/cache/aa4-atlas/regions.txt"
+hash = "51d845474483b0bd81644b56372cc1a8dcb0df95f38a32828486181c03dbed9a"
+
+[[files]]
+file = "config/inventory-particles/cache/aa4-atlas/spawn_areas.cached"
+hash = "0dd90ba8c4eda7a6d19d2ce9b106e87c9dc9a32b3309c0f45227707746496725"
+
+[[files]]
+file = "config/inventory-particles/cache/aeronautics/atlas.png"
+hash = "24916b9309f0b947f7420a545cae8c9edfaebc3ea60b9b1e99e8d81913c1c97b"
+
+[[files]]
+file = "config/inventory-particles/cache/aeronautics/regions.txt"
+hash = "15cd1bb88c1727c226b124f83f9ab4926c7d09eacafee0a05cc30e9d58d0ed0f"
+
+[[files]]
+file = "config/inventory-particles/cache/aeronautics/spawn_areas.cached"
+hash = "1afb088ff0b3f39b19355ac7f40330dbafd15571b00ae11153e962d885882746"
+
+[[files]]
+file = "config/inventory-particles/cache/aeronautics_utility_objects/atlas.png"
+hash = "96fa52775c0dd4c7b0c758728d8b688a36d31bfb6ec1b86f8b513f1843a52b35"
+
+[[files]]
+file = "config/inventory-particles/cache/aeronautics_utility_objects/regions.txt"
+hash = "8f2a5af2cfaaa75aa0bf3acce953f14a940b81d3d08c9897baab018e7311806e"
+
+[[files]]
+file = "config/inventory-particles/cache/aeronautics_utility_objects/spawn_areas.cached"
+hash = "6256df063b3dabb3327fc34b45029b6e52673ddf7bf6a8fcd7c98362ba307826"
+
+[[files]]
+file = "config/inventory-particles/cache/aerowarptics/atlas.png"
+hash = "e88ecf3fe4bb81a8eb3ec8cc6e19fa23116e85d51d7fdf2af7c9e9ed0bbefa2f"
+
+[[files]]
+file = "config/inventory-particles/cache/aerowarptics/regions.txt"
+hash = "4071ae86808070f0daec8552920efbe97d55b7a28f8449e9d11dfe59e7e07302"
+
+[[files]]
+file = "config/inventory-particles/cache/aerowarptics/spawn_areas.cached"
+hash = "8b2ee92ac9748478d6a51c7c5d5257bcaba591885ae3fd53164aa094b2c8a9df"
+
+[[files]]
+file = "config/inventory-particles/cache/aeroworks/atlas.png"
+hash = "41cadbb5436d4db18997be21441878bb7553494c89ec74ea1f1993fd912fe0a6"
+
+[[files]]
+file = "config/inventory-particles/cache/aeroworks/regions.txt"
+hash = "66fba5e0cd7efe4b2b041fac39c357bc9fb0c0df78d0bf91fb150ac55c21d265"
+
+[[files]]
+file = "config/inventory-particles/cache/aeroworks/spawn_areas.cached"
+hash = "b3efa31b822c66ca21e2bed48a3576a2ca8dda099a954d32cf0b1d123e292f0b"
+
+[[files]]
+file = "config/inventory-particles/cache/cbc_at/atlas.png"
+hash = "e5fa0681912c38b4a124ab40fdf7dd7d4534f658f4ca5c6fa4eb2b46e38d7676"
+
+[[files]]
+file = "config/inventory-particles/cache/cbc_at/regions.txt"
+hash = "9c0e6f7e368df375364a63fa27743a1464529e323ca6a2ebc3176bbb4a66c237"
+
+[[files]]
+file = "config/inventory-particles/cache/cbc_at/spawn_areas.cached"
+hash = "0a01db49156c02ede25f1fe3bb4995e7217202074bb97f422d8520ca7bd98215"
+
+[[files]]
+file = "config/inventory-particles/cache/cbc_compact_mount/atlas.png"
+hash = "fa8ceb8699db2e7e15050d9501fdb3855d6ff4c977c3045a716a2346cd6bbc61"
+
+[[files]]
+file = "config/inventory-particles/cache/cbc_compact_mount/regions.txt"
+hash = "37f6d98d197dba8f31dd486de3fe74b3938d8f336dd680550d0a38215e839691"
+
+[[files]]
+file = "config/inventory-particles/cache/cbc_compact_mount/spawn_areas.cached"
+hash = "e4376027a53bb3386e3ed29666871eff8366d45ff75dea8873d880e9ac491113"
+
+[[files]]
+file = "config/inventory-particles/cache/cgs/atlas.png"
+hash = "f1c9ec4d79b86cc54d2d0354fd31407b8bf5ada923254792eb6989accf9167ff"
+
+[[files]]
+file = "config/inventory-particles/cache/cgs/regions.txt"
+hash = "c17f3bcfcc81173036377fcdfa93d1bdf877b8c875d945cad839bce6c47f8f96"
+
+[[files]]
+file = "config/inventory-particles/cache/cgs/spawn_areas.cached"
+hash = "a5c8bd1b29ac68202dac1c5156ce0188bde71a0bfeb0a18d3dd9be043b41972e"
+
+[[files]]
+file = "config/inventory-particles/cache/comforts/atlas.png"
+hash = "30c5645d4e762416f186df1dc7b2e008ffe5865af00e4b873e1839e4962374de"
+
+[[files]]
+file = "config/inventory-particles/cache/comforts/regions.txt"
+hash = "0acc9895db2943b3f3ee139ba8e777f2eec29b0da596b36e7ec00f3b063e28cb"
+
+[[files]]
+file = "config/inventory-particles/cache/comforts/spawn_areas.cached"
+hash = "d5056297884aa9f1dc736cbb460f07e394b3e904c039ff67d485d6beb596dcdb"
+
+[[files]]
+file = "config/inventory-particles/cache/copycats/atlas.png"
+hash = "370dfacfa6ca395617582a292c3c8f7c7ec51987a89a7629fafe91b0dd9d2c40"
+
+[[files]]
+file = "config/inventory-particles/cache/copycats/regions.txt"
+hash = "3234b7acdc523b977816b07b16f56ebe4ece15ef45c70a5d021c86ea6dcdd6f7"
+
+[[files]]
+file = "config/inventory-particles/cache/copycats/spawn_areas.cached"
+hash = "a17f1ba7262e203ecbb1b6644624c9bb0eabd312828702ac7dc855ab184673b3"
+
+[[files]]
+file = "config/inventory-particles/cache/create/atlas.png"
+hash = "fe500bf469d1f3c05854730751d5e94632d1db7080ee2b4e9708319380f7a727"
+
+[[files]]
+file = "config/inventory-particles/cache/create/regions.txt"
+hash = "2338b248ab4a29db7bc5e4a6d5b3c3ccea98c6649ae23d0dcf57cb6f8970f166"
+
+[[files]]
+file = "config/inventory-particles/cache/create/spawn_areas.cached"
+hash = "72b53e75c6ed5faf7287a828a1dc4e6c6d8d1cadea4c8d473166469db1f1479e"
+
+[[files]]
+file = "config/inventory-particles/cache/create_aeronautics_throwable_rope_connector/atlas.png"
+hash = "23363b17617274f3a4d8e49e4c41a77fbc8ee25d221bc10a0fbdac66efd72319"
+
+[[files]]
+file = "config/inventory-particles/cache/create_aeronautics_throwable_rope_connector/regions.txt"
+hash = "a4161bc066295b37372341663f020a2c16b079ee534397c255ad313116a3c5f1"
+
+[[files]]
+file = "config/inventory-particles/cache/create_aeronautics_throwable_rope_connector/spawn_areas.cached"
+hash = "30ce401a14f00bf0271d306d13237722b324aa6fe775ec767b5f9083aee69715"
+
+[[files]]
+file = "config/inventory-particles/cache/create_connected/atlas.png"
+hash = "21fe8f5fd9d1f3a9917dd3095ad6d24d4bf14cabcd3b5419d301bc37fcccc444"
+
+[[files]]
+file = "config/inventory-particles/cache/create_connected/regions.txt"
+hash = "667189b8d6760f21215377e21ade14aa87a1a3fefdfb63a247d031beff14521e"
+
+[[files]]
+file = "config/inventory-particles/cache/create_connected/spawn_areas.cached"
+hash = "4e8562b402107cc7c8ebd94a5cfe305dec0fc95ef6173c61d3113264da12d62e"
+
+[[files]]
+file = "config/inventory-particles/cache/create_dragons_plus/atlas.png"
+hash = "6571a6d332fd5ca5433221360b57fe466c1d8918ac0a328dd8dd5739f6faa809"
+
+[[files]]
+file = "config/inventory-particles/cache/create_dragons_plus/regions.txt"
+hash = "219a2e35ece129257a060b10915528b03f1cb0232e38453ed54e5ea268717eb7"
+
+[[files]]
+file = "config/inventory-particles/cache/create_dragons_plus/spawn_areas.cached"
+hash = "3912ac8338ce31502f45b5749fefed63109d492a8fbe016fbe80a2e2216fe1de"
+
+[[files]]
+file = "config/inventory-particles/cache/create_enchantment_industry/atlas.png"
+hash = "aed9facf7961843ab902d64cf729e27e912601e3c86d666d32aafe5185608870"
+
+[[files]]
+file = "config/inventory-particles/cache/create_enchantment_industry/regions.txt"
+hash = "70bee4b8265c0c08e0dc6b9a1967c197e35482e5e0b15bd17e81e80873289f77"
+
+[[files]]
+file = "config/inventory-particles/cache/create_enchantment_industry/spawn_areas.cached"
+hash = "50f162e8473cc66e6a87f6d28456d7ce00f90c1194373d200cf7ea65de3d2889"
+
+[[files]]
+file = "config/inventory-particles/cache/create_hypertube/atlas.png"
+hash = "257da6877724e58ef59a7bbb5f992f07ad76eea1cb282a4ac297e7bd50129733"
+
+[[files]]
+file = "config/inventory-particles/cache/create_hypertube/regions.txt"
+hash = "76a9babb2025dee6366662021c34adadf5c9782252fbe835a6abaea02915c9c6"
+
+[[files]]
+file = "config/inventory-particles/cache/create_hypertube/spawn_areas.cached"
+hash = "68a9dc61637fc887690a4cb067a4745a4858162c468a0ab0ff8aafb833730a32"
+
+[[files]]
+file = "config/inventory-particles/cache/create_item_drawers/atlas.png"
+hash = "0ffcfaef4d7b5bcd7ab1548e504a5fd38698a9d7db2f0536c08348302ee206d8"
+
+[[files]]
+file = "config/inventory-particles/cache/create_item_drawers/regions.txt"
+hash = "b823ba2a0ab0ac1a1782a7fe2618bfd4e3eee96c3b55929769cd630f7f1f76af"
+
+[[files]]
+file = "config/inventory-particles/cache/create_item_drawers/spawn_areas.cached"
+hash = "c24e8f79f3a8f4c663078efc8539a715ae97ed1031b33c5daf00448f026d0364"
+
+[[files]]
+file = "config/inventory-particles/cache/create_mechanical_extruder/atlas.png"
+hash = "b22d99f804f301b6a9cbc8ee22cc865a89163f853d2c2f47690fc9a8931e228a"
+
+[[files]]
+file = "config/inventory-particles/cache/create_mechanical_extruder/regions.txt"
+hash = "8481d19b32d3a83a1fd1f8415c2be07463fcce7dfb74e348fea8460160ac7378"
+
+[[files]]
+file = "config/inventory-particles/cache/create_mechanical_extruder/spawn_areas.cached"
+hash = "f8ac6f1bfea79b9d70f322111ccaa89b6fd6dca50836c522685100833426872a"
+
+[[files]]
+file = "config/inventory-particles/cache/create_mob_spawners/atlas.png"
+hash = "4f3e74926d8b651373e7ac81c672f903b215f6af30f339a7d3a4310eda93dced"
+
+[[files]]
+file = "config/inventory-particles/cache/create_mob_spawners/regions.txt"
+hash = "2449a61a8e975764bcc3e192d282647d8b756f9ae023dafc096faafc09fd94c4"
+
+[[files]]
+file = "config/inventory-particles/cache/create_mob_spawners/spawn_areas.cached"
+hash = "3b2fcecb5509b74a7cff527a7d29b5b2d0a53e2bd66b3e6575742143a5048a1a"
+
+[[files]]
+file = "config/inventory-particles/cache/create_mobile_packages/atlas.png"
+hash = "cafc607d9b5902a5cadc5f093e0c38db03ad486bf8b1fb7738f17f6f96330264"
+
+[[files]]
+file = "config/inventory-particles/cache/create_mobile_packages/regions.txt"
+hash = "f1e673dd4a409b4a889e15f30f68bf22d7ddd15c1098954afe10a22c6b4820b6"
+
+[[files]]
+file = "config/inventory-particles/cache/create_mobile_packages/spawn_areas.cached"
+hash = "118dd447dd73327dcb3bac6420d34d3ccbb870159dd72c0fe1c7a35194901f4b"
+
+[[files]]
+file = "config/inventory-particles/cache/create_power_loader/atlas.png"
+hash = "10845b54ec89c7793b586cf8735e90d8b8e340e4fbd38e4f70c04d91a7a5f307"
+
+[[files]]
+file = "config/inventory-particles/cache/create_power_loader/regions.txt"
+hash = "8d2386a78d1d0cfcda0165c39cebb1bfcf591f3747b07fa24b924b339a86296e"
+
+[[files]]
+file = "config/inventory-particles/cache/create_power_loader/spawn_areas.cached"
+hash = "295bed22a527bbe2e6e65818848afeb5ddedc853c6bb8353fca07bccfdbf5c82"
+
+[[files]]
+file = "config/inventory-particles/cache/create_radar/atlas.png"
+hash = "e3c19ddd62a14bdbf07e699f16fcd4268b6a3587d8f3dfad3c7bb96277732e4a"
+
+[[files]]
+file = "config/inventory-particles/cache/create_radar/regions.txt"
+hash = "b560d20918a64142b32e4b171c46dd19838667bad692506d8dee793c501d63e3"
+
+[[files]]
+file = "config/inventory-particles/cache/create_radar/spawn_areas.cached"
+hash = "6a755c1a8b027040f2b15784c503306ec2cb114461b59038b86b1587724cc3f6"
+
+[[files]]
+file = "config/inventory-particles/cache/create_the_air_wars/atlas.png"
+hash = "e5c1a946f8fda20f30c8b67d5afbc65181751095e940157623ae65ebd6dd8a42"
+
+[[files]]
+file = "config/inventory-particles/cache/create_the_air_wars/regions.txt"
+hash = "d040981d6c29bceca5bc32e2c80b8c649296fc500156a24a58ffaf76b211f251"
+
+[[files]]
+file = "config/inventory-particles/cache/create_the_air_wars/spawn_areas.cached"
+hash = "8b26cfa6e432c979d5ff6f4c2aa6f43c11ae34e19e2edfcec7f02f7fde940e14"
+
+[[files]]
+file = "config/inventory-particles/cache/create_things_and_misc/atlas.png"
+hash = "3a4d158158c29eabab78d18097cab64072f209c2f9c43eca47c6bad1e54b8548"
+
+[[files]]
+file = "config/inventory-particles/cache/create_things_and_misc/regions.txt"
+hash = "48303ed7501a6625e0c36e5e43816f29150a362b3d2888f05651a242a48632bf"
+
+[[files]]
+file = "config/inventory-particles/cache/create_things_and_misc/spawn_areas.cached"
+hash = "d3a3c69a25e88b125aa10bfbf66e3c4640e0778aeebf007abbab0f48f6f38670"
+
+[[files]]
+file = "config/inventory-particles/cache/create_tweaked_controllers/atlas.png"
+hash = "096a60bd09d763e47568aaf283aca2f5b3619d160afe7c160704b2ffacc919fd"
+
+[[files]]
+file = "config/inventory-particles/cache/create_tweaked_controllers/regions.txt"
+hash = "a05ca8926a00f483113cfb59f2156d7d29e32299a36e23463505a4b84b39be81"
+
+[[files]]
+file = "config/inventory-particles/cache/create_tweaked_controllers/spawn_areas.cached"
+hash = "045539fa83150ea95b62b14af313265d95c2af25a1775c8209d85d91c9ce2945"
+
+[[files]]
+file = "config/inventory-particles/cache/createbigcannons/atlas.png"
+hash = "83b98730c0db29bcd507ec5633d8146ea6e7b313cd1eec37a09d2711220b5c97"
+
+[[files]]
+file = "config/inventory-particles/cache/createbigcannons/regions.txt"
+hash = "335eb0cf577597dc95c52a5071884fc2882cb04c3d5d21e6de85d5dceb141d81"
+
+[[files]]
+file = "config/inventory-particles/cache/createbigcannons/spawn_areas.cached"
+hash = "27c708e2e593f24d09ba99ca036fb77ea23ae3125c8c89261f2c1899679373fb"
+
+[[files]]
+file = "config/inventory-particles/cache/createdieselgenerators/atlas.png"
+hash = "f95f1070b7c6f299c46a5b76015739e6cbeacdae6a821ab84d482f54c4c41d6e"
+
+[[files]]
+file = "config/inventory-particles/cache/createdieselgenerators/regions.txt"
+hash = "898ea569d7527a7ef804cc16bf4ccbee4c9c6958162fe27c26b2d9bd78608d3c"
+
+[[files]]
+file = "config/inventory-particles/cache/createdieselgenerators/spawn_areas.cached"
+hash = "3d1203415742e0a255a7a70fd1678edcdf76eae4daf59f9551f0b7dbe402599a"
+
+[[files]]
+file = "config/inventory-particles/cache/createlazytick/atlas.png"
+hash = "7789cfa547b10bacdb72fbef14ef514da4f9a592bde221e9baf131a43270e40a"
+
+[[files]]
+file = "config/inventory-particles/cache/createlazytick/regions.txt"
+hash = "ca80a570fb14debc26e39959b767fb62dd3ec9264600fac1ca665800fa3e806a"
+
+[[files]]
+file = "config/inventory-particles/cache/createlazytick/spawn_areas.cached"
+hash = "1fdc8335a9d33522ae9fff168e4b859ad79813474c009a2886ef765ee59980c4"
+
+[[files]]
+file = "config/inventory-particles/cache/createmissiles/atlas.png"
+hash = "75d6f1ee4e409b609a347642e470623aa3690ab9f057578ba8f286999a0cdf71"
+
+[[files]]
+file = "config/inventory-particles/cache/createmissiles/regions.txt"
+hash = "f635dff85136af18200c1e03fdc874adcf5260566fef3a21227a3ee220489614"
+
+[[files]]
+file = "config/inventory-particles/cache/createmissiles/spawn_areas.cached"
+hash = "a30da501cb31209d2c0d61236a3d77dd956e8d57aed484b7c5b294382b85ca2e"
+
+[[files]]
+file = "config/inventory-particles/cache/createnuclear/atlas.png"
+hash = "b2e903da45ee77c89fa6085a2ae227191b1348fd72d00785d4686073eafc88b2"
+
+[[files]]
+file = "config/inventory-particles/cache/createnuclear/regions.txt"
+hash = "baa39d0ba76abcf87912ed0b0c81e1a7adfbcd78db052857b1bf86f7819237cc"
+
+[[files]]
+file = "config/inventory-particles/cache/createnuclear/spawn_areas.cached"
+hash = "85315eab355039c9feda1c0a2d5993b80dab9016ff170e817df5c42bb41fbaec"
+
+[[files]]
+file = "config/inventory-particles/cache/createpropulsion/atlas.png"
+hash = "9838ae42a5b0a03d45623e67a4c28f779670949a66448d90d1cea6906b34cde7"
+
+[[files]]
+file = "config/inventory-particles/cache/createpropulsion/regions.txt"
+hash = "42f8bd5b991c4375108ff4b78e55fa37485893bf7cc026585d1d0c383a2da864"
+
+[[files]]
+file = "config/inventory-particles/cache/createpropulsion/spawn_areas.cached"
+hash = "acc4be7e54e9c5e9a603fa2e77651b626de636fbbea66286b780aa21b27a5141"
+
+[[files]]
+file = "config/inventory-particles/cache/createthrusters/atlas.png"
+hash = "a0e506d4392496d4ad0d36becb522cb6833a47cfc888a805914ccfc4a5b8535f"
+
+[[files]]
+file = "config/inventory-particles/cache/createthrusters/regions.txt"
+hash = "d04c454b4dfb598a8cae26de8acf2206d8cd307ccf2cce45be4ff18c312bdddb"
+
+[[files]]
+file = "config/inventory-particles/cache/createthrusters/spawn_areas.cached"
+hash = "40e0935942846ea17063a0f9c6e0cb740a41ba80cd02f2f68c02a17c845efd73"
+
+[[files]]
+file = "config/inventory-particles/cache/createtransmission/atlas.png"
+hash = "016c1c8187ce5f27ff46ab5a90352aae93e65dc407e524782ae591a4062dd6dc"
+
+[[files]]
+file = "config/inventory-particles/cache/createtransmission/regions.txt"
+hash = "2918369a87a2ec0bbcbdc857ac4e8d7b25e4635e0473e7cf981fdfacd31343d9"
+
+[[files]]
+file = "config/inventory-particles/cache/createtransmission/spawn_areas.cached"
+hash = "8d63b77daf4d0434dbc789bd635def64a771af2172227978560482b060d6efc0"
+
+[[files]]
+file = "config/inventory-particles/cache/deployer/atlas.png"
+hash = "3b58c73104531ddd6d9045c8a2b8d22f2a23be74d4dcf3c8840098c7464ead3c"
+
+[[files]]
+file = "config/inventory-particles/cache/deployer/regions.txt"
+hash = "c2b4d087783ea6f45f53cbb942df9ace006d6dc7d35993a4e8023cd6436b9aff"
+
+[[files]]
+file = "config/inventory-particles/cache/deployer/spawn_areas.cached"
+hash = "0065414718d9af468b1410654ffb0067fd748dbab7a13a16a99253789de896a1"
+
+[[files]]
+file = "config/inventory-particles/cache/dndesires/atlas.png"
+hash = "e7d223aca9b12abcb7f8adcf4bf495a13d588621ef47b22cd595de13f27b3ea7"
+
+[[files]]
+file = "config/inventory-particles/cache/dndesires/regions.txt"
+hash = "943dfb382828cfd9fe8a6935a40e0e8ee9279f6b9ddec32920b9d03a6cd37029"
+
+[[files]]
+file = "config/inventory-particles/cache/dndesires/spawn_areas.cached"
+hash = "bf9c23687f493b1a4cbe3e9eb1a3da51fb94055dc52f8ccd39d5aa8bbb8996a2"
+
+[[files]]
+file = "config/inventory-particles/cache/escalated/atlas.png"
+hash = "2a96fad53720ec96651cc401314ab4f35e1cf56392e2702a96d0b3987aaa68af"
+
+[[files]]
+file = "config/inventory-particles/cache/escalated/regions.txt"
+hash = "3cd1c6f1737ea652b8b37736ba687da820c7b252d5a1425167e076fcda538674"
+
+[[files]]
+file = "config/inventory-particles/cache/escalated/spawn_areas.cached"
+hash = "7529607baadd43e974df70a220a0b3b547c4e13784d292ade40cf61c6fb01a94"
+
+[[files]]
+file = "config/inventory-particles/cache/extra_gauges/atlas.png"
+hash = "f20072d720c56429563d83a939c6a934c192ed8159e3a384c32ab9860f582898"
+
+[[files]]
+file = "config/inventory-particles/cache/extra_gauges/regions.txt"
+hash = "dfb7f49f5c7b8d75aafa5cb676058b537a8e4d34633c720848eb6350be8796f3"
+
+[[files]]
+file = "config/inventory-particles/cache/extra_gauges/spawn_areas.cached"
+hash = "e1f77061745abd8c68b9f93fdaee29c9ad9df06c5d98242aa14f5d95cb35d331"
+
+[[files]]
+file = "config/inventory-particles/cache/interiors/atlas.png"
+hash = "24f2967705500b373b66abcfbabc9b41de71290efa87a491d1d5787a55be8d45"
+
+[[files]]
+file = "config/inventory-particles/cache/interiors/regions.txt"
+hash = "a27e69c0666282cfebd9d9e44384f04b73ab80fa093848776a98a5c5e35a2cf3"
+
+[[files]]
+file = "config/inventory-particles/cache/interiors/spawn_areas.cached"
+hash = "f732bb82b520f2be8520582448d489f26c5c5d640d33246dc1cbd88fc69744ff"
+
+[[files]]
+file = "config/inventory-particles/cache/linearbearing/atlas.png"
+hash = "25120c9186f9905abb6cba11dff94e7c1a55f58516f2be90d10878ea5d3dd312"
+
+[[files]]
+file = "config/inventory-particles/cache/linearbearing/regions.txt"
+hash = "5c9f8aeff9c856d596784d73a0c41e1c1db9ddf95578a58ef9cccc9801e84f57"
+
+[[files]]
+file = "config/inventory-particles/cache/linearbearing/spawn_areas.cached"
+hash = "f091d0cb6e6987df50e0674c3d615f1b4f1e9ca8a4ae7905c1a9fc7f13879f68"
+
+[[files]]
+file = "config/inventory-particles/cache/mechanicals/atlas.png"
+hash = "fe16b7353f55a2b7a82e6afb8da1184ce085f0129f0681cba8d96261a33c8790"
+
+[[files]]
+file = "config/inventory-particles/cache/mechanicals/regions.txt"
+hash = "64a61e415f57de14032dec295875fa3719336c5ca128be95e6ad58cae79d9641"
+
+[[files]]
+file = "config/inventory-particles/cache/mechanicals/spawn_areas.cached"
+hash = "c768c827670f15a14eed973f320f15ead98607517a350622658a51e0dc5be82d"
+
+[[files]]
+file = "config/inventory-particles/cache/naturescompass/atlas.png"
+hash = "3a4bc4132bd3f8cbc2436a78847930cbb99b7d65798472f7dca5b647afc0a283"
+
+[[files]]
+file = "config/inventory-particles/cache/naturescompass/regions.txt"
+hash = "8c0d4bb0f6eb4edba62d76328fcac52130d2a7acc6b4209ab536f2435b887743"
+
+[[files]]
+file = "config/inventory-particles/cache/naturescompass/spawn_areas.cached"
+hash = "7eb873bc6aa5a1dc02aebe6a987dd2a9767945805a01adc3b42ed43956ea6f77"
+
+[[files]]
+file = "config/inventory-particles/cache/northstar/atlas.png"
+hash = "5844ce28200a9a3071661b13fb4c39c0f2e883b6c70835ce146b790beffffdcb"
+
+[[files]]
+file = "config/inventory-particles/cache/northstar/regions.txt"
+hash = "faad7d70a97c8b80c2fb2ecd76abab7705ce5b938cc5c061d1a5a2b89b82bcc2"
+
+[[files]]
+file = "config/inventory-particles/cache/northstar/spawn_areas.cached"
+hash = "f20bddb2eabb9689181663506b66b9a2e1f7b9e806224269449e6d3342b2ac39"
+
+[[files]]
+file = "config/inventory-particles/cache/ntgl/atlas.png"
+hash = "501f67318603dc461758a6a1921ae36c3cb6009bf581c28473001a1d274f9279"
+
+[[files]]
+file = "config/inventory-particles/cache/ntgl/regions.txt"
+hash = "71a3acbd75c235299ab10d211ac4cb3692c2089c10c4dbc3e95e484511fd6abb"
+
+[[files]]
+file = "config/inventory-particles/cache/ntgl/spawn_areas.cached"
+hash = "f97fd4c7dbc60cecb28fcfe6bfad485379ca71292f3b1db2aec42018e50682ce"
+
+[[files]]
+file = "config/inventory-particles/cache/offroad/atlas.png"
+hash = "a5110ee4d60250babd3d884d77e78aeb15f6c7cdf75cc0cf1f2d43851e210359"
+
+[[files]]
+file = "config/inventory-particles/cache/offroad/regions.txt"
+hash = "fcc4a1c390e61c85744dee054058b61d11e380fc7767bf74fe11340c0740eeb0"
+
+[[files]]
+file = "config/inventory-particles/cache/offroad/spawn_areas.cached"
+hash = "8328e0a8864882bf842a9df9744f0e5568d8e4ce717334a948416ccab67d0d6a"
+
+[[files]]
+file = "config/inventory-particles/cache/powergrid/atlas.png"
+hash = "a8ca3c7a71a1f86d8ac1ad8c3a2e72fc28a85ea69846abe14c530aab007889b9"
+
+[[files]]
+file = "config/inventory-particles/cache/powergrid/regions.txt"
+hash = "1d41cea3e4811afc424c6f702180fa1ff602ad2190c8326f3d15287956321018"
+
+[[files]]
+file = "config/inventory-particles/cache/powergrid/spawn_areas.cached"
+hash = "a584b9ddfdc4327c41cc41dfba06db66fb0fc888fbf3a71e09c315bba777b7a0"
+
+[[files]]
+file = "config/inventory-particles/cache/relics/atlas.png"
+hash = "dff54fdc4473f5af17017251d7269734a7a65b238dfbd3c6e41208cc1877b58d"
+
+[[files]]
+file = "config/inventory-particles/cache/relics/regions.txt"
+hash = "9a40decad6a534d8f43c8593dadc0f410ad686f3c9a7426c5115538b0b20da2a"
+
+[[files]]
+file = "config/inventory-particles/cache/relics/spawn_areas.cached"
+hash = "5fa00d7d8d8a20028c7ca54f3e4a7b7e8d1c539717400c90f7cb4055ed9db4ac"
+
+[[files]]
+file = "config/inventory-particles/cache/rocketnautics/atlas.png"
+hash = "326cc3469b8c81f97cec19654d49aaf858604a858cb2d1cea8296b46d90167d8"
+
+[[files]]
+file = "config/inventory-particles/cache/rocketnautics/regions.txt"
+hash = "07d12bad737bcb48757481a0cba065c9dc7338f355da9d845c795a7c7fda5fa8"
+
+[[files]]
+file = "config/inventory-particles/cache/rocketnautics/spawn_areas.cached"
+hash = "cbb5e44a6b3d1fe2bcd57b200dd867392dfd7e4117e72fbd42c592fce0353864"
+
+[[files]]
+file = "config/inventory-particles/cache/sim_copycats/atlas.png"
+hash = "7f01001e732fe12de8606c3a2d6dbf66217bf2799b7b77fa553b98092837fdf4"
+
+[[files]]
+file = "config/inventory-particles/cache/sim_copycats/regions.txt"
+hash = "f8f481cb98211029b539b2745d74f9112fe72c3bd361962bb7c4ac09126f71c8"
+
+[[files]]
+file = "config/inventory-particles/cache/sim_copycats/spawn_areas.cached"
+hash = "ce0dfa89def058f93851e069aa6864a3a3243ddf234e1d51a9d8844d54f314c9"
+
+[[files]]
+file = "config/inventory-particles/cache/simulated/atlas.png"
+hash = "ab9f927774b16995e297099c563992f83f03947c9dc908f4ab0b2bd51584d44c"
+
+[[files]]
+file = "config/inventory-particles/cache/simulated/regions.txt"
+hash = "f21a07b24fccceb03df283840a1f8b40836ec01189bb1e44c1ce701012d58017"
+
+[[files]]
+file = "config/inventory-particles/cache/simulated/spawn_areas.cached"
+hash = "6d380c6c28ca35d783ee8f1020589198966b87813686512ce30e08052b92f091"
+
+[[files]]
+file = "config/inventory-particles/cache/sophisticatedbackpacks/atlas.png"
+hash = "e50e086d1826e1dc56158044db68472774c772b52ffa290d5025fa1365b7a60a"
+
+[[files]]
+file = "config/inventory-particles/cache/sophisticatedbackpacks/regions.txt"
+hash = "e3a3a9d2612212592c871ea90a8a1904604c2811b110668fe8338098912e9954"
+
+[[files]]
+file = "config/inventory-particles/cache/sophisticatedbackpacks/spawn_areas.cached"
+hash = "d1bb06e79e392c680b03351395ca9875eaf549a340b145a4e909a714d99f1c26"
+
+[[files]]
+file = "config/inventory-particles/cache/sophisticatedcore/atlas.png"
+hash = "791fc92f3378056bee47b1e479c20e5767c4e1078cbaf44da9bcfa5918215997"
+
+[[files]]
+file = "config/inventory-particles/cache/sophisticatedcore/regions.txt"
+hash = "42477546dfebd1f7cf68cebecdae9c6669e71ed7dea0fe1e523b9c083d3c6471"
+
+[[files]]
+file = "config/inventory-particles/cache/sophisticatedcore/spawn_areas.cached"
+hash = "bb16c79fd2b3a5d808b8873f6da895b87d363b5224bfe3d2d6898213f36a9309"
+
+[[files]]
+file = "config/inventory-particles/cache/touys/atlas.png"
+hash = "92b45743e6c531b28ed89c7d4d029c5f6f1f936811fcd89357ab4d46e7d6ff0c"
+
+[[files]]
+file = "config/inventory-particles/cache/touys/regions.txt"
+hash = "c13f16bfb5a07707c60a51f77aa0f81f9223305aa7e457587fa931b0fd9e8af2"
+
+[[files]]
+file = "config/inventory-particles/cache/touys/spawn_areas.cached"
+hash = "41399840c30417aea320ba13a0f755e7bb41ea958c3c09c4fcd2d153d5d63cd0"
+
+[[files]]
+file = "config/inventory-particles/cache/trashcans/atlas.png"
+hash = "dc855ef9a8f6dc9a775fb745b445663dd4411294af26fe0a65d56b11fe3e2402"
+
+[[files]]
+file = "config/inventory-particles/cache/trashcans/regions.txt"
+hash = "c509772c5288793f45d391aee1aafef3595d82a67e7aae249dc96c266127d597"
+
+[[files]]
+file = "config/inventory-particles/cache/trashcans/spawn_areas.cached"
+hash = "1c5c0e1dd1d5afafedbe5941425df4e7d269b71a6e168f76865ede828e00bab6"
+
+[[files]]
+file = "config/inventory-particles/cache/wands/atlas.png"
+hash = "5d88c9db6f2b50508d6dde83831219239e712977039688d64cc61cb6d2f8a6db"
+
+[[files]]
+file = "config/inventory-particles/cache/wands/regions.txt"
+hash = "2d4f46e069d4c90689a2eeb5a524c494b565cac2e1634c292703e7e21d9b4e20"
+
+[[files]]
+file = "config/inventory-particles/cache/wands/spawn_areas.cached"
+hash = "376425b347cba27e9ac781887cd6804910e4a71c3d4b000e0e558364c8f0bccb"
+
+[[files]]
+file = "config/spatial-gui.json5"
+hash = "b70df8f557d26212e8326f1f79f5444184e17a8f7bb4fdada1a6f388b4c4a027"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2dc498bd8a43a8e02fc9d08fe5846ac17f6eabbecbf38ae39aa7b1f23fe100b0"
 metafile = true
