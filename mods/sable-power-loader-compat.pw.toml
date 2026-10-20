@@ -1,0 +1,13 @@
+name = "Sable Power Loader Compat"
+filename = "sablepowerloadercompat-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2OkHvb6D/versions/mfe4gBTG/sablepowerloadercompat-1.0.0.jar"
+hash-format = "sha512"
+hash = "10fb796abc9ecc439a1c14cdaecad9faef9ce49704f08818bec19c33d60a9c6a0bca4ef15f68a5f19cb81e6971fe70ee246fd9318be42b2e4fa1b51e93d2af3b"
+
+[update]
+[update.modrinth]
+mod-id = "2OkHvb6D"
+version = "mfe4gBTG"
