@@ -1,0 +1,13 @@
+name = "Create: Extra Recipes"
+filename = "create_extra_recipes-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uUsD8Drs/versions/qqhcWOV3/create_extra_recipes-1.5.0.jar"
+hash-format = "sha512"
+hash = "d84b24f3b81557c86dc1347d906eef5d532b6b16678abe899145d25f5e83dda6a055884fafa66e8c34917490e5531402ab13085902532262513b47554780c6bd"
+
+[update]
+[update.modrinth]
+mod-id = "uUsD8Drs"
+version = "qqhcWOV3"

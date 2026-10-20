@@ -1,0 +1,6 @@
+aa4-atlas:antique_atlas	inventory_particles:antique_atlas/fallback/standard_0	0	0	8	8
+aa4-atlas:antique_atlas	inventory_particles:antique_atlas/fallback/standard_1	8	0	8	8
+aa4-atlas:antique_atlas	inventory_particles:antique_atlas/fallback/standard_2	16	0	8	8
+aa4-atlas:antique_atlas	inventory_particles:antique_atlas/fallback/standard_3	24	0	8	8
+aa4-atlas:antique_atlas	inventory_particles:antique_atlas/fallback/standard_4	32	0	8	8
+aa4-atlas:antique_atlas	inventory_particles:antique_atlas/fallback/standard_5	40	0	8	8

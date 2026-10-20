@@ -1,0 +1,13 @@
+name = "Skyengineer"
+author = "BinaryBard2010"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9b7078a79bc313a6d5758985e0c26a9d1f7d68dfd07034b74553b63269b58aab"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.264"

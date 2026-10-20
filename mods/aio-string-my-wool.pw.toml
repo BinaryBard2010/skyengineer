@@ -1,0 +1,13 @@
+name = "AIO - String my wool"
+filename = "aio-string-my-wool-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VNFH6VyL/versions/5Dcfnz6N/aio-string-my-wool-1.2.1.jar"
+hash-format = "sha512"
+hash = "b9ec41b66d92b5e79117e6e329798fecf06c879abcc2b2c6ce8e28dda049338a2049569a0acf546d08353087e227c427d030017fddf4648019d0a7f393183d6a"
+
+[update]
+[update.modrinth]
+mod-id = "VNFH6VyL"
+version = "5Dcfnz6N"
