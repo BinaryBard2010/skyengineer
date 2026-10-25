@@ -888,11 +888,6 @@ hash = "f098e781d0677cf60c32fad198243b202c62286a936868ada416379b21e3fcd3"
 metafile = true
 
 [[files]]
-file = "mods/aero_cam_sync.pw.toml"
-hash = "ffecbebd22c61706a17c573fa751f970f82d4220badc80a8e43c3f48a30f2789"
-metafile = true
-
-[[files]]
 file = "mods/aio-string-my-wool.pw.toml"
 hash = "3182fb5d8116a4507d0182d735a0a12de511e5e151bef3ae93aca1aaa94f7354"
 metafile = true
