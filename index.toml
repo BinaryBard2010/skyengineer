@@ -944,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/cameraoverhaul.pw.toml"
-hash = "51f925e75075df676cc1efff5bb8db9d828842c0f3031310a05dbf368aa67393"
+hash = "c129a04cbabb1523e4df9015ed143a9712e2041d6b392b2a8db87fb74fdf7e44"
 metafile = true
 
 [[files]]
@@ -964,7 +964,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "fcfacd2acbc4c9d3e62406ff7d212412324dd7767a0fd2ff4f58c91ac51c8850"
+hash = "d11921d1faa73d74001682e8642c9bdd5a922361ee3f6ab018eb6072c0d57092"
 metafile = true
 
 [[files]]
@@ -1259,12 +1259,12 @@ metafile = true
 
 [[files]]
 file = "mods/exposure-polaroid.pw.toml"
-hash = "5d2c7666928f62d709f6890e20dd77de984837476ba181ef7f3c5e8acbe0a8d1"
+hash = "47d9cdd4b19116bcce09a239ad696a4c2bac5bf3ae771d26618251b0064bf1f8"
 metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "b9c7e06aaedf28d4f5fd4d002aa290b755bea76a9c2c0012a4a46efea1a3ef7d"
+hash = "97142a104968e30791948b10d840fca912b77ab3ba8b0ffbec91c89ce2c1405f"
 metafile = true
 
 [[files]]
@@ -1304,7 +1304,7 @@ metafile = true
 
 [[files]]
 file = "mods/genshin-instruments.pw.toml"
-hash = "28c19a93e0902ef190500d3c17f3893c6bfb9fa594f3e0dfcea2df03dc595d92"
+hash = "6ceecb0f6a3e99460237d39cbb9afbf5a728fa7c4834c527c7354b397e776270"
 metafile = true
 
 [[files]]
@@ -1319,7 +1319,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "a46a4220e4d467208a042ccd05cc8c2908733f02da6f5ecd532ab4cb2ed72909"
+hash = "b9460a3541951c12d302ac23700066ca55184164da16884a38e0e6f3f4614cfc"
 metafile = true
 
 [[files]]
@@ -1394,7 +1394,7 @@ metafile = true
 
 [[files]]
 file = "mods/mc2-interactive-foliage.pw.toml"
-hash = "84187d5a17d81081749fa21f7e5aa8af1a1bd82a78aff5c7d25cdac62d707978"
+hash = "b43b980f99900b44e5e37f81156ef4d0013f48fb48473f7a17ec2e8c4709afa3"
 metafile = true
 
 [[files]]
@@ -1459,7 +1459,7 @@ metafile = true
 
 [[files]]
 file = "mods/ping-wheel.pw.toml"
-hash = "650330109d21831664d2ff597c7a90200eda69a1efaca4e9b0b6b6297ac3c364"
+hash = "60743373a0ac4296a61b7c195a6dd66de98c5c86ba57ae9bfcc2f4a11ac839bb"
 metafile = true
 
 [[files]]
@@ -1514,7 +1514,7 @@ metafile = true
 
 [[files]]
 file = "mods/seamless-sleep.pw.toml"
-hash = "2ad800931c3c659fc2b01ee237ac2c0edf0ace3cdb5ff2022ac69505629d99c2"
+hash = "79b1e89c643ee3309ee349ae46b3186cb1cdb93414efa7d11b76774377b6f9c3"
 metafile = true
 
 [[files]]
@@ -1569,7 +1569,7 @@ metafile = true
 
 [[files]]
 file = "mods/srdp.pw.toml"
-hash = "c40cd6e94191418cc6f334ffc37d55f09064ab19623ea119b2e74c9688d82109"
+hash = "eaeecc8bcfcb05ee8b44883ddb423fe50cf22c56a85bd141f6e011619f03f008"
 metafile = true
 
 [[files]]
@@ -1594,7 +1594,7 @@ metafile = true
 
 [[files]]
 file = "mods/sway.pw.toml"
-hash = "d64f01d1be1eae8017715be1ba7d766975df58c87da9eb8814329292aba01c8f"
+hash = "94b98085194c459bdd193a9448fc7cf5b3d4c5577d70d885ba8c284ba22a77e6"
 metafile = true
 
 [[files]]
