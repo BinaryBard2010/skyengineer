@@ -1,13 +1,13 @@
 name = "FootprintParticle"
-filename = "footprintparticle-0.7.0+1.21.1-neoforge.jar"
+filename = "footprintparticle-0.7.1+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xZQOoOaY/versions/vTusvLkP/footprintparticle-0.7.0%2B1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/xZQOoOaY/versions/2V0cTg06/footprintparticle-0.7.1%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "ba6b3be2716717f12684e5da1accaba30ea09ba4caf8000901af632c123478c9255c87f50e21a4b85ae50684d50a66a78168b6e023a7a4b3aac6508df7c7747a"
+hash = "33149a15cb290bd09395c767e058d440ca4a64948260e01e3b0e86f576c550229472210fcf8a025266165b3792522c9810b3729d2372eac0878d7a6dcbd36634"
 
 [update]
 [update.modrinth]
 mod-id = "xZQOoOaY"
-version = "vTusvLkP"
+version = "2V0cTg06"
