@@ -873,11 +873,6 @@ file = "config/spatial-gui.json5"
 hash = "b70df8f557d26212e8326f1f79f5444184e17a8f7bb4fdada1a6f388b4c4a027"
 
 [[files]]
-file = "mods/3dskinlayers.pw.toml"
-hash = "2dc498bd8a43a8e02fc9d08fe5846ac17f6eabbecbf38ae39aa7b1f23fe100b0"
-metafile = true
-
-[[files]]
 file = "mods/a-good-place.pw.toml"
 hash = "eedd5d5664cc71eeabc14145564a6012f0bbbca31581ff23c09e226217102f8b"
 metafile = true
