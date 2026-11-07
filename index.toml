@@ -888,6 +888,11 @@ hash = "8c2d4c4611c6a9936af4fb747ae945eb53d024a8b584c415f52bdbf4a49e5119"
 metafile = true
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
+metafile = true
+
+[[files]]
 file = "mods/aio-string-my-wool.pw.toml"
 hash = "dea4ce794ff1e5bbdc633394e342f6d1610b547fab30b4d673cabb78ce3cf8d4"
 metafile = true
@@ -1248,6 +1253,11 @@ hash = "f2cbcb3d01017133313e1594cb89f052923592b7fa0c78eb9b6d09fb6e03bfb5"
 metafile = true
 
 [[files]]
+file = "mods/emi-recipe-sharing.pw.toml"
+hash = "220997281fd28da6a21ded3b3092a1426922bb4fbc4d2960fb686c1b761f64c4"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
@@ -1320,6 +1330,11 @@ metafile = true
 [[files]]
 file = "mods/hypertube.pw.toml"
 hash = "672fe2518a1795814efc943c3e3cf8dc1b993bc7d838cc62950acfaba348c2c7"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "a2fbecad69fcbff54919864ea8b95e54d140a1a2c637d73307fb366e76066fe6"
 metafile = true
 
 [[files]]
