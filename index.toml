@@ -5,6 +5,10 @@ file = "README.md"
 hash = "d763331e55098da2592e1ef655cb7f0e9084ba3844a8544792d2634a62ddcba7"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "bb3d62838c6942ba2e8b8b3e9a8d37ba303e6ac720011843202b11f476187fc0"
+
+[[files]]
 file = "config/inventory-interactions/cache/aa4-atlas/base_textures.cached"
 hash = "8c27e1b70ce858bac21bf06edc43cf2b5770f5e9321f97c03143cc63806187bc"
 
