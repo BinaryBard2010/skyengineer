@@ -1,13 +1,13 @@
 name = "Mace's Origins"
-filename = "maces-origins-updated-2-neoforge-1.0.6+mc1.21.1.jar"
+filename = "maces-origins-updated-2-neoforge-1.0.7+mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HAm8Lm3M/versions/7zAom1y7/maces-origins-updated-2-neoforge-1.0.6%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/HAm8Lm3M/versions/wJ1CGCG9/maces-origins-updated-2-neoforge-1.0.7%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "54e85a3bf36069b96c0776122039fb2d3d861aa78b0822ebc17b5c4b4678984547a1310512d431f46cb9b5694ae1bd15b6430c6d6243b6bf3cb0121464fd23ad"
+hash = "4c85d874048ee6a4a59331b2c59f6c712c21fc9d614f9762dc1524a10b463f9f595af8d99a1fd95fbb0bd293e1a728d611500a3a54b8177346b1329a98b0bb43"
 
 [update]
 [update.modrinth]
 mod-id = "HAm8Lm3M"
-version = "7zAom1y7"
+version = "wJ1CGCG9"
