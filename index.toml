@@ -1332,8 +1332,8 @@ hash = "b0c37ca9826781a6bf1373ae02a141b4202037515eb071ec2327410771de6ea5"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-crafting-tree.pw.toml"
-hash = "e2a2b6c0834d4b43f2e7c6de2897f58967c5d9285b8b8023f5780060c53c7d22"
+file = "mods/just-enough-crafting-tree-ject.pw.toml"
+hash = "9c663342e7c765c07a4a6abe7f45aeb9a63be07706661bd1a8dbc3cfac57aece"
 metafile = true
 
 [[files]]
