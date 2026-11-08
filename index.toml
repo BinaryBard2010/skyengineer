@@ -1327,6 +1327,26 @@ hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
 metafile = true
 
 [[files]]
+file = "mods/jei-plus-plus-lingmu0.pw.toml"
+hash = "90f81e899f78124e098a0b220660a920251fd008690f0646a8378b5c278c1a63"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "b0c37ca9826781a6bf1373ae02a141b4202037515eb071ec2327410771de6ea5"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-recipe-sharing.pw.toml"
+hash = "3ffdfadd65bd4ca6005e93dc080be2c78689d8c61aeff8caa9b7832bccae04be"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "17823abb92b0fa339dcfaeb73b188eec80fb968ba9f64f47abf8637073c234c6"
+metafile = true
+
+[[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "4c64dc39ebe1d44d39b5876848695d3f8d4670be71019509bf74905309ac2791"
 metafile = true
@@ -1379,6 +1399,11 @@ metafile = true
 [[files]]
 file = "mods/mechanicals-lib.pw.toml"
 hash = "c9e181185e3177d43fc9bd8d919288ac1bc0ce6b85e7049890f3eb231f5be10d"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "e3ad7e057b7489bd450dda5ab479b49a5c6915e03f7ea0481d8b2f1808db96f9"
 metafile = true
 
 [[files]]
