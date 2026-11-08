@@ -1222,11 +1222,6 @@ hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
-file = "mods/emixx.pw.toml"
-hash = "4a36c2ae2b91369b7c15b42c5090c36def29400a2917fdaefefdadbcfa31f9f2"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "426238488c9ffd843f661f8bc74aa8e585fa6b4d342c43c4ba4cb8451298b725"
 metafile = true
@@ -1249,11 +1244,6 @@ metafile = true
 [[files]]
 file = "mods/extra-gauges.pw.toml"
 hash = "4c05f6744be64d47634fbd906b1502ec6ba7ce9becf473cc8db882922716b620"
-metafile = true
-
-[[files]]
-file = "mods/extra-mod-integrations.pw.toml"
-hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
 
 [[files]]
