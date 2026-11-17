@@ -1151,11 +1151,6 @@ hash = "f341b8307a3a9efd08d777fb4e572351ca0dac96a280efbd6ecb0e838420f905"
 metafile = true
 
 [[files]]
-file = "mods/create-offroad-narrow-roads.pw.toml"
-hash = "e28efde8137e92234359264d8ab9aa7edc8367bed3a943a55c8731ad8a7d74b1"
-metafile = true
-
-[[files]]
 file = "mods/create-pocket-sized.pw.toml"
 hash = "14b1585633ae6f5e1b673c44f1051273eb01d8fefe609d1f80d2551d3a956128"
 metafile = true
