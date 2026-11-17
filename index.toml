@@ -1151,6 +1151,11 @@ hash = "f341b8307a3a9efd08d777fb4e572351ca0dac96a280efbd6ecb0e838420f905"
 metafile = true
 
 [[files]]
+file = "mods/create-offroad-narrow-roads.pw.toml"
+hash = "e28efde8137e92234359264d8ab9aa7edc8367bed3a943a55c8731ad8a7d74b1"
+metafile = true
+
+[[files]]
 file = "mods/create-pocket-sized.pw.toml"
 hash = "14b1585633ae6f5e1b673c44f1051273eb01d8fefe609d1f80d2551d3a956128"
 metafile = true
@@ -1173,6 +1178,11 @@ metafile = true
 [[files]]
 file = "mods/create-the-air-war.pw.toml"
 hash = "422fd5cf73322f4379b04dc0a3d8dc952b8faeadd2f287d40e31db596db72c83"
+metafile = true
+
+[[files]]
+file = "mods/create-tracks-plus.pw.toml"
+hash = "b5d7bf5c707e49e0ad5f266fc440ad6bdfeb86c2774e9b3574ea17c35d33082d"
 metafile = true
 
 [[files]]
