@@ -1222,6 +1222,11 @@ hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
+file = "mods/emf-compat-core.pw.toml"
+hash = "fd1aaf11d14082f9f9804a77a49e6ae42e83c9cfd9fbf5614e3af425e890fb6e"
+metafile = true
+
+[[files]]
 file = "mods/emi-compatibility.pw.toml"
 hash = "9dc16434b84b58d6765b016e938fdc2c072d11b3dcdea65ea6b612bbe6e7cd15"
 metafile = true
@@ -1259,6 +1264,16 @@ metafile = true
 [[files]]
 file = "mods/emixx.pw.toml"
 hash = "4a36c2ae2b91369b7c15b42c5090c36def29400a2917fdaefefdadbcfa31f9f2"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "8b954d8baf312e42fbe5b324f966935201648d149a113474170892a7d4c160a6"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "eae10750ed0a056674afed95c354d75da1e9213eaacaa0201d25bdcbe315a1cc"
 metafile = true
 
 [[files]]
@@ -1522,6 +1537,11 @@ hash = "98ae27f0381f08ada1be2336d2afc106d8cfa99057e6262556570e5877d9b094"
 metafile = true
 
 [[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
+metafile = true
+
+[[files]]
 file = "mods/rpl.pw.toml"
 hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
@@ -1637,6 +1657,11 @@ hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
+file = "mods/touch-and-motion.pw.toml"
+hash = "861df11a57a8c81ba253e1a14953a2310f6d04ea7c3eb9fdfb3e29b02deccfaa"
+metafile = true
+
+[[files]]
 file = "mods/touys.pw.toml"
 hash = "cfba4887821d3a994ccee8e7e76cf2d9b1fb50171d4172bf62bd10604bf6675f"
 metafile = true
@@ -1654,4 +1679,14 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fa-player-extension.pw.toml"
+hash = "b10943dd0c7472c8782d27e1239a851dfa41ee21608dff9207b84c0a81b56e20"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "6a489b37b949921beffb24adb91d6f572c4ee82668b7dc15b8aaedd767476aad"
 metafile = true
