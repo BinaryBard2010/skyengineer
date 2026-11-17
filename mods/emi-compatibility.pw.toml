@@ -1,13 +1,13 @@
 name = "EMI Compat"
-filename = "emicompat-1.21.1-1.0.1.jar"
+filename = "emicompat-1.21.1-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c1d08e6dbdfa1322218618b88dc3eb14b2f3d0c3"
+hash = "dea96a696e6432b4c2cfa3fa8349861e07b9bf1d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9188084
+file-id = 9542239
 project-id = 1721490
