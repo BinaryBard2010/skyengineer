@@ -1,0 +1,11 @@
+{
+  "schema_version": 2,
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "vanilla",
+    "mod_resources",
+    "a_good_place:default_animations",
+    "file/FreshAnimations_v1.11.2_1.20+.zip",
+    "file/FA+Player-v1.1.zip"
+  ]
+}

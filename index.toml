@@ -873,6 +873,10 @@ file = "config/inventory-particles/cache/wands/spawn_areas.cached"
 hash = "376425b347cba27e9ac781887cd6804910e4a71c3d4b000e0e558364c8f0bccb"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "0efd4c762eea55c84f82a2e6addc268b033cec279e38802a2bde8cb041ac0960"
+
+[[files]]
 file = "config/spatial-gui.json5"
 hash = "b70df8f557d26212e8326f1f79f5444184e17a8f7bb4fdada1a6f388b4c4a027"
 
