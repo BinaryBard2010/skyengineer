@@ -1032,7 +1032,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-gadgets-and-gizmos.pw.toml"
-hash = "3a2390ed14dae4a665beb530fb4296496ddb6c1aac090dc573974977af940ada"
+hash = "4e4bb32e791138bc1e32354e062af294d6cf86ba7170eedf4631c831a58c3a8c"
 metafile = true
 
 [[files]]
@@ -1072,7 +1072,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-coasters-simulated.pw.toml"
-hash = "d5ec31a858ce86144784a0b35bd6ce390a5066aa8c3dfae986602620df5afbb4"
+hash = "d5aad6415413aa777ed89ae55912f33c86757321c7c16c8392ce2e1429b920d5"
 metafile = true
 
 [[files]]
@@ -1176,11 +1176,6 @@ hash = "422fd5cf73322f4379b04dc0a3d8dc952b8faeadd2f287d40e31db596db72c83"
 metafile = true
 
 [[files]]
-file = "mods/create-tracks-plus.pw.toml"
-hash = "b5d7bf5c707e49e0ad5f266fc440ad6bdfeb86c2774e9b3574ea17c35d33082d"
-metafile = true
-
-[[files]]
 file = "mods/create-transmission.pw.toml"
 hash = "663f6f9ee22b3f7ce9f84542842319249fb28ca5a5e26039575834f1ea602d68"
 metafile = true
@@ -1212,7 +1207,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "e622857e271e0ebd3d80f84f8230474d76f0150354cb06832deac2134448cbcb"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
@@ -1607,12 +1602,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "44fbfa6f8f0cda4f628d2f1488b758f84b27a05bbfde836cdfe6b176eb4e6b81"
+hash = "882a37f53c24ebad93b2fcd5feb972154f9c6df42d94e4b9282edfdafe595f41"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "538402dccb562c05a3e126e2db0ee2d0d97e5227776c51c33834aeeb01c192a8"
+hash = "a9c525571077c7473c6f09bfe795d045d98b60092e779f259067a206a9190647"
 metafile = true
 
 [[files]]
@@ -1647,7 +1642,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "2c858567ef7b8f1f9cb8cb33917571d8027bc83b42e83ae38623a8f3af718e5f"
+hash = "33eab1ec1f2b6a02756c74817832b56960b689f112690ecf37f8ce7f8077589f"
 metafile = true
 
 [[files]]
